@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="self-learn\001.firsttest.cpp" />
     <ClCompile Include="self-learn\myself.cpp" />
     <ClCompile Include="src-preprocessed\alter.c" />
     <ClCompile Include="src-preprocessed\analyze.c" />

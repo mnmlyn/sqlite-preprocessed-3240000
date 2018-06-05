@@ -270,6 +270,9 @@
     <ClCompile Include="self-learn\myself.cpp">
       <Filter>学习</Filter>
     </ClCompile>
+    <ClCompile Include="self-learn\001.firsttest.cpp">
+      <Filter>学习</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src-preprocessed\btree.h">
