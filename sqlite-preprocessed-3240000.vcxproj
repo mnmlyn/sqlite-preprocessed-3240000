@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="self-learn\myself.cpp" />
     <ClCompile Include="src-preprocessed\alter.c" />
     <ClCompile Include="src-preprocessed\analyze.c" />
     <ClCompile Include="src-preprocessed\attach.c" />
@@ -203,7 +204,6 @@
     <ClCompile Include="src-preprocessed\resolve.c" />
     <ClCompile Include="src-preprocessed\rowset.c" />
     <ClCompile Include="src-preprocessed\select.c" />
-    <ClCompile Include="src-preprocessed\shell.c" />
     <ClCompile Include="src-preprocessed\sqlite3session.c" />
     <ClCompile Include="src-preprocessed\status.c" />
     <ClCompile Include="src-preprocessed\table.c" />

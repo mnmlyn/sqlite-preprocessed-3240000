@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="学习">
+      <UniqueIdentifier>{296d7d2b-4d4c-4a43-a8d2-937a6d2183ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src-preprocessed\alter.c">
@@ -186,9 +189,6 @@
     <ClCompile Include="src-preprocessed\select.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src-preprocessed\shell.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="src-preprocessed\sqlite3session.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -266,6 +266,9 @@
     </ClCompile>
     <ClCompile Include="src-preprocessed\whereexpr.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="self-learn\myself.cpp">
+      <Filter>学习</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
