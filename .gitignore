@@ -53,4 +53,10 @@ dkms.conf
 
 # Debug
 Debug
+
+# hide .vs
 .vs
+
+
+# db file
+sqlite-preprocessed-3240000*db
