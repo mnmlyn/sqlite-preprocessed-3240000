@@ -1,7 +1,7 @@
 #include"../src-preprocessed/sqlite3.h"
 #include<stdio.h>
 
-//static修饰函数，表名函数的内部连接性
+//static修饰函数，表明函数的内部连接性
 static int callback(void *NotUsed, int argc, char **argv, char **azColName) {
 	int i;
 	for (i = 0; i<argc; i++) {
