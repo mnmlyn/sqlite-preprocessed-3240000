@@ -273,6 +273,9 @@
     <ClCompile Include="self-learn\001.firsttest.cpp">
       <Filter>学习</Filter>
     </ClCompile>
+    <ClCompile Include="self-learn\002.CoreAPITest.cpp">
+      <Filter>学习</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src-preprocessed\btree.h">
